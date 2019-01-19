@@ -13,8 +13,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.stereotype.Service;
 
-import com.gfe.quest._model.GenericExcelReport;
 import com.gfe.quest._utils.service.ExcelManager;
+import com.gfe.quest.model.excel.GenericExcelReport;
 
 import net.sf.jxls.transformer.XLSTransformer;
 

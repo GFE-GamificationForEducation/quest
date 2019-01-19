@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.stereotype.Service;
 
-import com.gfe.quest._model.GenericExcelReport;
+import com.gfe.quest.model.excel.GenericExcelReport;
 
 /**
  * Manager para gestionar las exportaciones a excel

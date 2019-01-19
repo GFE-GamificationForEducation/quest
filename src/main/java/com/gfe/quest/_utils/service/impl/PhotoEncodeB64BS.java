@@ -7,9 +7,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.gfe.quest._exceptions.GenericJsonException;
 import com.gfe.quest._utils.Messages;
 import com.gfe.quest._utils.service.PhotoEncodeIBS;
+import com.gfe.quest.model._exceptions.GenericJsonException;
 
 
 @Service
